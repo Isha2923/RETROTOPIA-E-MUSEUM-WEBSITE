@@ -20,6 +20,9 @@ Retrotopia isn't just a museum, it's a journey through time and innovation, an i
 I have done the following changes in the ISOC e-museum website-
 
 1.Done various CSS enhancements in both the pages of the website - the main page and the exhibition page.
-2.Created the logo for this website.
+
+2.Created the official logo for E- Museum website.
+
 3.Added functionality on various buttons like subscribe button where on clicking it , it will display the popup message showing the confirmation that the provided email is subscribed for retrotopia newsletter.
+
 4.Added toggle button for display mode which is used to switch between light and dark mode.
